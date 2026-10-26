@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## # Hola, soy Jordi Coelho estudiante del IES S'Arenal, estudio segundo año de grado medio de FP de sistemas microinformaticos y redes.
+##  Hola, soy Jordi Coelho estudiante del IES S'Arenal, estudio segundo año de grado medio de FP de sistemas microinformaticos y redes.
 
 <!--
 **jcoelho0707/jcoelho0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
